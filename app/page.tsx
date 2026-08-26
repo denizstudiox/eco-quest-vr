@@ -17,7 +17,7 @@ export default function Home() {
           <span className="eyebrow"><i /> VR TABANLI ÇEVRE EĞİTİMİ</span>
           <h1>GELECEĞİ<br /><em>DOĞRU KUTUYA</em><br />BIRAK.</h1>
           <p>Eco Quest, geri dönüşümü görevler ve keşif üzerinden öğreten sürükleyici bir sanal gerçeklik deneyimi.</p>
-          <div className="heroActions"><a className="primaryButton" href="#deneyim">DENEYİMİ KEŞFET <b>→</b></a><span className="zeroBadge"><b>04</b> ATIK TÜRÜ</span></div>
+          <div className="heroActions"><a className="primaryButton" href="#deneyim">DENEYİMİ KEŞFET <b>→</b></a><span className="zeroBadge"><b>06</b> ATIK TÜRÜ</span></div>
         </div>
 
         <div className="heroVisual" aria-label="Eco Quest logosu ve geri dönüşüm temalı VR sahnesi">
@@ -60,19 +60,19 @@ export default function Home() {
           <span className="sectionIndex light">02 / GÖREV DÖNGÜSÜ</span>
           <h2>HER ATIK,<br /><em>BİR KARAR.</em></h2>
           <p>VR kontrolcünü kullan, çevreyi tara ve atığı doğru kategoriyle buluştur. Görevleri tamamladıkça yeni alanlar ve daha zorlu senaryolar açılır.</p>
-          <div className="missionStats"><div><b>04</b><span>ATIK<br />KATEGORİSİ</span></div><div><b>03</b><span>KEŞİF<br />ALANI</span></div><div><b>∞</b><span>ÇEVRESEL<br />ETKİ</span></div></div>
+          <div className="missionStats"><div><b>06</b><span>ATIK<br />KATEGORİSİ</span></div><div><b>03</b><span>KEŞİF<br />ALANI</span></div><div><b>∞</b><span>ÇEVRESEL<br />ETKİ</span></div></div>
         </div>
         <div className="steps">
           <article><span>01</span><div className="stepIcon">⌖</div><h3>KEŞFET</h3><p>Okulun farklı alanlarını araştır, çevreye bırakılan atıkları bul.</p></article>
           <article><span>02</span><div className="stepIcon">◎</div><h3>İNCELE</h3><p>Nesneyi VR kontrolcüsüyle al ve hangi malzemeden üretildiğini değerlendir.</p></article>
-          <article><span>03</span><div className="stepIcon">↘</div><h3>AYIR</h3><p>Kağıt, plastik, cam veya organik atığı doğru kutuya bırak.</p></article>
+          <article><span>03</span><div className="stepIcon">↘</div><h3>AYIR</h3><p>Kağıt, plastik, cam, organik, metal veya evsel atığı doğru kutuya bırak.</p></article>
           <article><span>04</span><div className="stepIcon">✓</div><h3>İLERLE</h3><p>Görevi tamamla, sonraki bölgeyi aç ve daha zorlu senaryoya geç.</p></article>
         </div>
       </section>
 
       <section className="wasteSection">
         <div className="wasteHeader">
-          <div><span className="sectionIndex">03 / DOĞRU KUTU</span><h2>DÖRT KATEGORİ.<br /><em>TEK GELECEK.</em></h2></div>
+          <div><span className="sectionIndex">03 / DOĞRU KUTU</span><h2>ALTI KATEGORİ.<br /><em>TEK GELECEK.</em></h2></div>
           <p>Her malzeme aynı değildir. Doğru sınıflandırma, atığın yeniden kaynağa dönüşmesinin ilk adımıdır.</p>
         </div>
         <div className="wasteGrid">
@@ -80,6 +80,8 @@ export default function Home() {
           <article className="plastic"><small>02</small><div className="binTop" /><div className="binBody"><span>♳</span></div><h3>PLASTİK</h3><p>Şişe • Kap • Paket</p></article>
           <article className="glass"><small>03</small><div className="binTop" /><div className="binBody"><span>◇</span></div><h3>CAM</h3><p>Şişe • Kavanoz • Parça</p></article>
           <article className="organic"><small>04</small><div className="binTop" /><div className="binBody"><span>♧</span></div><h3>ORGANİK</h3><p>Yiyecek • Kabuk • Bitki</p></article>
+          <article className="metal"><small>05</small><div className="binTop" /><div className="binBody"><span>⬡</span></div><h3>METAL</h3><p>Kutu • Kapak • Teneke</p></article>
+          <article className="household"><small>06</small><div className="binTop" /><div className="binBody"><span>⌂</span></div><h3>EVSEL</h3><p>Peçete • Süprüntü • Karışık</p></article>
         </div>
       </section>
 
