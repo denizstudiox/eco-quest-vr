@@ -1,2 +1,2 @@
-:HL["/eco-quest-vr/_next/static/chunks/0dmf.r29_e6mq.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"GSsEtCDa5wA8VQMmcUwS5"}
+:HL["/eco-quest-vr/_next/static/chunks/03fsi.wpwl1db.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"S4HLwo-hUONRvdZ7by1ZR"}
