@@ -109,7 +109,7 @@ export default function Home() {
           <article><span>GA</span><div><small>GELİŞTİRİCİ</small><h3>GAMZE NUR ASILTÜRK</h3></div><a className="linkedinLink" href="https://www.linkedin.com/in/gamzeasilturk" target="_blank" rel="noopener noreferrer" aria-label="Gamze Nur Asıltürk LinkedIn profilini aç"><b>in</b><i>LinkedIn</i><em>↗</em></a></article>
           <article className="advisor"><span>BÇ</span><div><small>PROJE DANIŞMANI</small><h3>DOÇ. DR. BARIŞ ÇUKURBAŞI</h3></div><a className="linkedinLink" href="https://www.linkedin.com/in/barocraft" target="_blank" rel="noopener noreferrer" aria-label="Barış Çukurbaşı LinkedIn profilini aç"><b>in</b><i>LinkedIn</i><em>↗</em></a></article>
         </div>
-        <div className="institution"><b>MCBÜ × XRLab</b><span>Manisa Celal Bayar Üniversitesi<br />Teknik Bilimler Meslek Yüksekokulu</span></div>
+        <div className="institution"><b>MCBÜ × XRLAB</b><span>Manisa Celal Bayar Üniversitesi<br />Teknik Bilimler Meslek Yüksekokulu</span></div>
       </section>
 
       <section className="finalCta">
@@ -117,7 +117,7 @@ export default function Home() {
         <span>SIFIR ATIK • GELECEĞİMİ KORU</span><h2>DÖNGÜYE<br />KATIL.</h2><p>Başlığını tak, kampüsü keşfet ve her doğru kararla geleceği yeniden şekillendir.</p><a href="#top">GÖREVE HAZIRLAN <b>↗</b></a>
       </section>
 
-      <footer><a href="#top" className="wordmark"><span className="wordmarkMark">EQ</span><span>ECO QUEST</span></a><p>© 2026 ECO QUEST — XRLab</p><a href="#top">YUKARI DÖN ↑</a></footer>
+      <footer><a href="#top" className="wordmark"><span className="wordmarkMark">EQ</span><span>ECO QUEST</span></a><p>© 2026 ECO QUEST — XRLAB</p><a href="#top">YUKARI DÖN ↑</a></footer>
     </main>
   );
 }
