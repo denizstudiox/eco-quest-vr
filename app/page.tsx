@@ -103,11 +103,11 @@ export default function Home() {
       <section className="team" id="ekip">
         <div className="teamHeading"><span className="sectionIndex light">06 / PROJE EKİBİ</span><h2>GELECEĞİ<br /><em>TASARLAYANLAR.</em></h2></div>
         <div className="teamGrid">
-          <article><span>ME</span><div><small>GELİŞTİRİCİ</small><h3>MUHAMMET ERYILMAZ</h3></div></article>
-          <article><span>EA</span><div><small>GELİŞTİRİCİ</small><h3>EKREM EFE ARKUN</h3></div></article>
-          <article><span>DA</span><div><small>GELİŞTİRİCİ</small><h3>DENİZ AKKOYUN</h3></div></article>
-          <article><span>GA</span><div><small>GELİŞTİRİCİ</small><h3>GAMZE NUR ASILTÜRK</h3></div></article>
-          <article className="advisor"><span>BÇ</span><div><small>PROJE DANIŞMANI</small><h3>DOÇ. DR. BARIŞ ÇUKURBAŞI</h3></div></article>
+          <article><span>ME</span><div><small>GELİŞTİRİCİ</small><h3>MUHAMMET ERYILMAZ</h3></div><a className="linkedinLink" href="https://www.linkedin.com/in/muhery" target="_blank" rel="noopener noreferrer" aria-label="Muhammet Eryılmaz LinkedIn profilini aç"><b>in</b><i>LinkedIn</i><em>↗</em></a></article>
+          <article><span>EA</span><div><small>GELİŞTİRİCİ</small><h3>EKREM EFE ARKUN</h3></div><a className="linkedinLink" href="https://www.linkedin.com/in/ekremefearkun" target="_blank" rel="noopener noreferrer" aria-label="Ekrem Efe Arkun LinkedIn profilini aç"><b>in</b><i>LinkedIn</i><em>↗</em></a></article>
+          <article><span>DA</span><div><small>GELİŞTİRİCİ</small><h3>DENİZ AKKOYUN</h3></div><a className="linkedinLink" href="https://www.linkedin.com/in/deniz-akkoyun" target="_blank" rel="noopener noreferrer" aria-label="Deniz Akkoyun LinkedIn profilini aç"><b>in</b><i>LinkedIn</i><em>↗</em></a></article>
+          <article><span>GA</span><div><small>GELİŞTİRİCİ</small><h3>GAMZE NUR ASILTÜRK</h3></div><a className="linkedinLink" href="https://www.linkedin.com/in/gamzeasilturk" target="_blank" rel="noopener noreferrer" aria-label="Gamze Nur Asıltürk LinkedIn profilini aç"><b>in</b><i>LinkedIn</i><em>↗</em></a></article>
+          <article className="advisor"><span>BÇ</span><div><small>PROJE DANIŞMANI</small><h3>DOÇ. DR. BARIŞ ÇUKURBAŞI</h3></div><a className="linkedinLink" href="https://www.linkedin.com/in/barocraft" target="_blank" rel="noopener noreferrer" aria-label="Barış Çukurbaşı LinkedIn profilini aç"><b>in</b><i>LinkedIn</i><em>↗</em></a></article>
         </div>
         <div className="institution"><b>MCBÜ × XR LAB</b><span>Manisa Celal Bayar Üniversitesi<br />Teknik Bilimler Meslek Yüksekokulu</span></div>
       </section>
