@@ -88,9 +88,9 @@ export default function Home() {
       <section className="zones">
         <div className="zonesTitle"><span className="sectionIndex light">04 / KEŞİF ALANLARI</span><h2>KAMPÜS<br /><em>SENİN OYUN ALANIN.</em></h2></div>
         <div className="zoneRail">
-          <article className="zone classroom"><span>01</span><div className="zoneScene"><i /><i /><i /></div><div><small>BAŞLANGIÇ BÖLGESİ</small><h3>SINIF</h3><p>Günlük okul atıklarını tanı, temel ayrıştırma görevlerini tamamla.</p></div></article>
-          <article className="zone canteen"><span>02</span><div className="zoneScene"><i /><i /><i /></div><div><small>HIZLI KARAR BÖLGESİ</small><h3>KANTİN</h3><p>Yoğun atık akışında doğru kutuyu seç ve zamanla yarış.</p></div></article>
-          <article className="zone garden"><span>03</span><div className="zoneScene"><i /><i /><i /></div><div><small>İLERİ SEVİYE BÖLGESİ</small><h3>BAHÇE</h3><p>Organik atıkları keşfet, doğa döngüsünü koruyan görevleri çöz.</p></div></article>
+          <article className="zone classroom"><span>01</span><div className="zoneScene"><img src={asset('ecoquest-classroom.jpg')} alt="Eco Quest sınıf bölümünün oyun içi görüntüsü" width="1280" height="558" loading="lazy" /><b>OYUN İÇİ GÖRÜNTÜ</b></div><div><small>BAŞLANGIÇ BÖLGESİ</small><h3>SINIF</h3><p>Günlük okul atıklarını tanı, temel ayrıştırma görevlerini tamamla.</p></div></article>
+          <article className="zone canteen"><span>02</span><div className="zoneScene"><img src={asset('ecoquest-canteen.jpg')} alt="Eco Quest kantin bölümünün oyun içi görüntüsü" width="1280" height="558" loading="lazy" /><b>OYUN İÇİ GÖRÜNTÜ</b></div><div><small>HIZLI KARAR BÖLGESİ</small><h3>KANTİN</h3><p>Yoğun atık akışında doğru kutuyu seç ve zamanla yarış.</p></div></article>
+          <article className="zone garden"><span>03</span><div className="zoneScene"><img src={asset('ecoquest-garden.jpg')} alt="Eco Quest bahçe bölümünün oyun içi görüntüsü" width="1280" height="558" loading="lazy" /><b>OYUN İÇİ GÖRÜNTÜ</b></div><div><small>İLERİ SEVİYE BÖLGESİ</small><h3>BAHÇE</h3><p>Organik atıkları keşfet, doğa döngüsünü koruyan görevleri çöz.</p></div></article>
         </div>
       </section>
 
