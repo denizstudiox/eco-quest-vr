@@ -1,4 +1,4 @@
-:HL["/eco-quest-vr/_next/static/chunks/0lai6dcapa1n8.css","style"]
+:HL["/eco-quest-vr/_next/static/chunks/07ssda6aqlcb3.css","style"]
 :HL["/eco-quest-vr/_next/static/media/0c89a48fa5027cee-s.p.0rd3rjvnnhw7n.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/eco-quest-vr/ecoquest-logo.png","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"efkMzPk54iZAZUSNg8vJh"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"PSK8KyuykGFBXyfHDBIYZ"}

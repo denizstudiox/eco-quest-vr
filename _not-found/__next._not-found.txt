@@ -2,4 +2,4 @@
 2:I[34744,["/eco-quest-vr/_next/static/chunks/0c6qjz9wg-6pt.js","/eco-quest-vr/_next/static/chunks/0xi-ii0ustqj2.js"],"default"]
 3:I[4287,["/eco-quest-vr/_next/static/chunks/0c6qjz9wg-6pt.js","/eco-quest-vr/_next/static/chunks/0xi-ii0ustqj2.js"],"default"]
 4:[]
-0:{"rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"isPartial":false,"staleTime":300,"varyParams":"$W4","buildId":"efkMzPk54iZAZUSNg8vJh"}
+0:{"rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"isPartial":false,"staleTime":300,"varyParams":"$W4","buildId":"PSK8KyuykGFBXyfHDBIYZ"}
